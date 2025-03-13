@@ -1,0 +1,16 @@
+{
+    "name": "CoffeeJunioR/lrv-homeworks",
+    "description": "Домашнее задание по Composer",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Denis",
+            "email": "dv.savanin@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "psr/log": "^3.0@dev"
+    }
+}
